@@ -1,0 +1,4 @@
+<iframe width="800px" height="600px" src="https://www.catmario.eu"> </iframe>
+<iframe height="800px" width="1800px" src="https://www.catmario.eu"> </iframe>
+https://supermarioemulator.com/mario.php
+<iframe height="925px" width="1850px" href src="https://supermarioemulator.com/mario.php"> </iframe> (KLAPPT!!)
